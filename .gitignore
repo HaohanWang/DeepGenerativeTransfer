@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+*.png
+*.log
+*.mp4
+.idea/
